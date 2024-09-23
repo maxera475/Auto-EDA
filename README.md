@@ -24,10 +24,6 @@ Before running AutoStreamML, ensure you have the following installed:
 
 Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/manikantpandey/AutoML-WebApp.git
-```
-
 Navigate to the cloned directory and install the required packages:
 ```bash
 pip install -r requirements.txt
